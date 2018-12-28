@@ -1,5 +1,6 @@
 # Shark-Game
 This is my first game, created with C# Visual Studio in programming course at University of Jyväskylä
+
 using System;
 using System.Collections.Generic;
 using Jypeli;
